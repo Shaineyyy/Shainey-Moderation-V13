@@ -1,0 +1,26 @@
+{
+  "name": "moderation",
+  "version": "1.0.0",
+  "description": "Shainey&Khaos tarafından yapılmış moderasyon botu",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Shainey",
+    "Khaos",
+    "Moderation"
+  ],
+  "author": "Khaos, Shainey",
+  "license": "MIT",
+  "dependencies": {
+    "@discordjs/voice": "^0.10.0",
+    "axios": "^0.27.2",
+    "discord-reply": "^0.1.2",
+    "discord.js": "^13.8.1",
+    "fc_invite": "^1.0.4",
+    "moment": "^2.29.4",
+    "moment-duration-format": "^2.3.2",
+    "mongoose": "^5.11.8"
+  }
+}
